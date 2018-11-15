@@ -11,7 +11,7 @@ dependencies:
     circular_image_loading:
         git:
             url: https://github.com/kevinalexandersurjadi/circular_image_loading.git
-            ref: 0.0.0
+            ref: 0.0.1
 
 ```
 2. Import package
